@@ -1,0 +1,6 @@
+host:  nyc.domcloud.id
+u: estetikacrystal
+p: J5u)E6-Pt+Gx68B2fs
+pto: 3306
+db: estetikacrystal_db
+
