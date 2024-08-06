@@ -2,7 +2,7 @@
 
 <?php include_once __DIR__ . '/../templates/barra.php'; ?>
 
-<h2>Buscar Cias</h2>
+<h2>Buscar Ciasn </h2>
 <div class="busqueda">
     <form class="formulario" action="">
         <div class="campo">
